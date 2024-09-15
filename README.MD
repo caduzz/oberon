@@ -16,19 +16,19 @@ O **Oberon** é um aplicativo de desktop desenvolvido com **Electron**, **React*
 1. Clone o repositório:
 
 ```bash
-  git clone https://github.com/caduzz/oberon.git
+git clone https://github.com/caduzz/oberon.git
 ```
 
 2. Acesse o diretório do projeto:
 
 ```bash
-  cd oberon
+cd oberon
 ```
 
 3. Instale as dependências:
 
 ```bash
-  npm install
+npm install
 ```
 
 4. Execute o aplicativo:
