@@ -1,0 +1,61 @@
+{
+  "name": "teste",
+  "productName": "teste",
+  "version": "1.0.0",
+  "description": "My Electron application description",
+  "main": "./.webpack/main/index.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "publish": "electron-forge publish",
+    "lint": "echo \"No linting configured\""
+  },
+  "devDependencies": {
+    "@babel/core": "7.14.6",
+    "@babel/plugin-transform-runtime": "7.14.5",
+    "@babel/preset-env": "7.14.5",
+    "@babel/preset-react": "7.14.5",
+    "@babel/preset-typescript": "7.14.5",
+    "@electron-forge/cli": "^7.4.0",
+    "@electron-forge/maker-deb": "^7.4.0",
+    "@electron-forge/maker-rpm": "^7.4.0",
+    "@electron-forge/maker-squirrel": "^7.4.0",
+    "@electron-forge/maker-zip": "^7.4.0",
+    "@electron-forge/plugin-auto-unpack-natives": "^7.4.0",
+    "@electron-forge/plugin-fuses": "^7.4.0",
+    "@electron-forge/plugin-webpack": "^7.4.0",
+    "@electron/fuses": "^1.8.0",
+    "@marshallofsound/webpack-asset-relocator-loader": "^0.5.0",
+    "@types/electron-devtools-installer": "2.2.0",
+    "@types/react": "17.0.11",
+    "@types/react-dom": "17.0.8",
+    "@types/react-modal": "^3.13.1",
+    "@types/styled-components": "5.1.10",
+    "@vercel/webpack-asset-relocator-loader": "1.7.3",
+    "babel-loader": "^9.1.3",
+    "electron": "32.1.0",
+    "file-loader": "^6.2.0",
+    "npm-run-all": "4.1.5",
+    "typescript": "4.3.4",
+    "cross-env": "^7.0.3",
+    "wait-on": "5.3.0"
+  },
+  "keywords": [],
+  "author": {
+    "name": "caduzz",
+    "email": "67341983+caduzz@users.noreply.github.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.19.0",
+    "electron-squirrel-startup": "^1.0.1",
+    "moment": "^2.30.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hot-loader": "4.13.0",
+    "react-icons": "^4.7.1",
+    "react-modal": "^3.16.1",
+    "styled-components": "5.3.0"
+  }
+}
