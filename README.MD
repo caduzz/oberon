@@ -68,6 +68,6 @@ REDIRECTURI="http://localhost:9000/main_window"
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 ## Licença
-Este projeto está licenciado sob a <a>MIT License</a>.
+Este projeto está licenciado sob a [MIT License](./LICENSE).
 
 Oberon: Maximize sua produtividade e foque no que realmente importa enquanto curte suas músicas favoritas!
