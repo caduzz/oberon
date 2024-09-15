@@ -2,8 +2,13 @@
 
 O **Oberon** é um aplicativo de desktop desenvolvido com **Electron**, **React**, **Webpack** e **TypeScript**. Ele combina a técnica Pomodoro de gerenciamento de tempo com integração ao **Spotify**, permitindo que você controle suas sessões de foco e relaxamento enquanto escuta suas músicas favoritas. O Oberon visa ajudar a aumentar sua produtividade e manter a concentração, utilizando música como um reforço.
 
+## Capturas de Tela
+
+1. App
 
 ![Captura de Tela](https://media.discordapp.net/attachments/1083996120688115752/1284843628136628296/image.png?ex=66e81b60&is=66e6c9e0&hm=aee585fc76d4f0b35f472cec8e7699cf79b9be4c81e125574a0562478ee39e35&=&format=webp&quality=lossless&width=1248&height=662)
+
+2. Sobreposição do App
 
 ![Captura de Tela](https://media.discordapp.net/attachments/1083996120688115752/1284843646197305447/image.png?ex=66e81b64&is=66e6c9e4&hm=f98fdc697de6afbfb783367a5fdd92b46ed4098ab88ab6aa32b06f3d7bd69593&=&format=webp&quality=lossless&width=756&height=265)
 
