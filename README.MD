@@ -43,11 +43,11 @@ npm start
 - `npm run package`: Empacota o aplicativo para distribuição.
 
 ## Tecnologias Utilizadas
-`Electron`: Para criar a interface nativa do desktop e manipular funcionalidades do sistema.
-`React`: Para a construção da interface de usuário.
-`Webpack`: Como empacotador de módulos para otimizar e compilar os arquivos.
-`TypeScript`: Para tipagem estática e aumento de produtividade no desenvolvimento.
-`Spotify API`: Para integração com o Spotify e controle de músicas.
+- `Electron`: Para criar a interface nativa do desktop e manipular funcionalidades do sistema.
+- `React`: Para a construção da interface de usuário.
+- `Webpack`: Como empacotador de módulos para otimizar e compilar os arquivos.
+- `TypeScript`: Para tipagem estática e aumento de produtividade no desenvolvimento.
+- `Spotify API`: Para integração com o Spotify e controle de músicas.
 
 ## Configuração do Spotify
 
