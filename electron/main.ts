@@ -42,11 +42,9 @@ function createWindow() {
 	mainWindow.on("closed", () => {
 		const timerWindow = getTimerWindow()
 		if (timerWindow) {
-			timerWindow.webContents.send("close-window")
 			timerWindow.close();
 		}
 
-		mainWindow?.webContents.send("close-window")
 		mainWindow = null;
 	});
 }
